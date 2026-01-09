@@ -1,3 +1,0 @@
-fn main(arg: string) {
-  print("tested {}@", arg);
-}
