@@ -1,4 +1,0 @@
-[configure]
-name = fsalpackage:string
-cmduse = lmb:string
-version = 1.0:float
