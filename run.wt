@@ -1,3 +1,3 @@
-fn main(arg: string) {
+fn main(ss_arg: string) {
   print("tested {}@", arg);
 }
