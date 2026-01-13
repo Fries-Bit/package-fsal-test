@@ -1,4 +1,4 @@
 [configure]
-name = fsalpackage:string
-cmduse = lmb:string
-version = 1.0:float
+name = "test_return"
+cmduse = "t_retu"
+version = 1
